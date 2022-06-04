@@ -1,4 +1,5 @@
-## Respositorio_DIO
-#Primeiro repositório
+## Respositorio DIO
+###Git/GitHub 
 
-[Markdow](https://www.markdownguide.org/)
+##Links Úteis
+[Sintáxe Básica Markdown](https://www.markdownguide.org/)
