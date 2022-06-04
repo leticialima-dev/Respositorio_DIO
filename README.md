@@ -1,5 +1,5 @@
-## Respositorio DIO
-###Git/GitHub 
+# Respositorio DIO
+### Git/GitHub 
 
-##Links Úteis
+## Links Úteis
 [Sintáxe Básica Markdown](https://www.markdownguide.org/)
